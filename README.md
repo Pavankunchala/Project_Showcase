@@ -9,3 +9,8 @@ Showcasing all the DL & Computer vision Projects
 
 ![Cartoonize images](https://github.com/Pavankunchala/Deep-Learning/blob/master/Cartoonize/CartoonPika.png)
 
+* [Face Recognition Live](https://github.com/Pavankunchala/Deep-Learning/tree/master/Face-Recognisation)
+
+![Face-Recog](https://github.com/Pavankunchala/Project_Showcase/blob/main/Face-Recog-Demo.gif)
+
+
