@@ -13,4 +13,8 @@ Showcasing all the DL & Computer vision Projects
 
 ![Face-Recog](https://github.com/Pavankunchala/Project_Showcase/blob/main/Face-Recog-Demo.gif)
 
+* [Age Gender Detection](https://github.com/Pavankunchala/AGE-Gender-Detection)
+
+![Age-Gender](https://github.com/Pavankunchala/AGE-Gender-Detection/blob/main/Age-Gender.gif)
+
 
