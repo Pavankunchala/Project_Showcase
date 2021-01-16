@@ -23,4 +23,8 @@ Showcasing all the DL & Computer vision Projects
 
 ![Face Detection](https://github.com/Pavankunchala/Deep-Learning/blob/master/Face-Detection-All%20Models/Face_detection_DNN_openCV/DNN_solution.png)
 
+* [Face Detection using Cvlib](https://github.com/Pavankunchala/Deep-Learning/tree/master/Face-Detection-All%20Models/Face_detection_cvlib)
+
+![Face detection cvlib](https://github.com/Pavankunchala/Deep-Learning/blob/master/Face-Detection-All%20Models/Face_detection_cvlib/soln_cvlib.png)
+
 
