@@ -17,4 +17,6 @@ Showcasing all the DL & Computer vision Projects
 
 ![Age-Gender](https://github.com/Pavankunchala/AGE-Gender-Detection/blob/main/Age-Gender.gif)
 
+* [Medium Blogs on Machine learning and Computer Vision](https://pavankunchalapk.medium.com/)
+
 
