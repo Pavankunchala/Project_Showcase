@@ -19,4 +19,8 @@ Showcasing all the DL & Computer vision Projects
 
 * [Medium Blogs on Machine learning and Computer Vision](https://pavankunchalapk.medium.com/)
 
+* [Face Detection using DNN](https://github.com/Pavankunchala/Deep-Learning/tree/master/Face-Detection-All%20Models/Face_detection_DNN_openCV)
+
+![Face Detection](https://github.com/Pavankunchala/Deep-Learning/blob/master/Face-Detection-All%20Models/Face_detection_DNN_openCV/DNN_solution.png)
+
 
