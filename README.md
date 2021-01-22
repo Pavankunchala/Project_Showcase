@@ -31,4 +31,8 @@ Showcasing all the DL & Computer vision Projects
 
 ![Tensorflow-img](https://github.com/Pavankunchala/Deep-Learning/blob/master/Tensorflow_Basics/rnn-mnist.png)
 
+* [Facial Landmarks detection](https://github.com/Pavankunchala/Deep-Learning/tree/master/Facial_landmarks)
+
+![Face-landmark](https://github.com/Pavankunchala/Deep-Learning/blob/master/Facial_landmarks/face-landmark.gif)
+
 
