@@ -1,5 +1,5 @@
-# Project_Showcase
-Showcasing all the DL & Computer vision Projects
+# Project Showcase
+Showcasing all the Deep Learning & Computer vision Projects I have worked on 
 
 * [Human Pose Estimation](https://github.com/Pavankunchala/Human-Pose-Estimation-OpenCV)
 
