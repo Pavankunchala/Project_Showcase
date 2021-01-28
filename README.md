@@ -35,4 +35,8 @@ Showcasing all the Deep Learning & Computer vision Projects I have worked on
 
 ![Face-landmark](https://github.com/Pavankunchala/Deep-Learning/blob/master/Facial_landmarks/face-landmark.gif)
 
+* [Lane Detecion for Self Drving Cars](https://github.com/Pavankunchala/Lane-Detection-OpenCV) 
+
+![Lane Detector](https://github.com/Pavankunchala/Lane-Detection-OpenCV/blob/main/ezgif.com-gif-maker.gif)
+
 
