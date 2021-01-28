@@ -47,4 +47,8 @@ Showcasing all the Deep Learning & Computer vision Projects I have worked on
 
 ![Segemented](https://github.com/Pavankunchala/Semantic-Segmentation-DL/blob/main/image_new1.jpg)
 
+* [Object Detection with YOLO V3](https://github.com/Pavankunchala/YOLO_V3_Tensorflow_2.0)
+
+![Detected](https://github.com/Pavankunchala/YOLO_V3_Tensorflow_2.0/blob/main/output.jpg)
+
 
