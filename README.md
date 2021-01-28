@@ -39,4 +39,8 @@ Showcasing all the Deep Learning & Computer vision Projects I have worked on
 
 ![Lane Detector](https://github.com/Pavankunchala/Lane-Detection-OpenCV/blob/main/ezgif.com-gif-maker.gif)
 
+* [Vehicle Detection System](https://github.com/Pavankunchala/Vehicle-Detection-System)
+
+![Vehicle Detector](https://github.com/Pavankunchala/Vehicle-Detection-System/blob/main/vehicle.gif)
+
 
