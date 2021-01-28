@@ -43,4 +43,8 @@ Showcasing all the Deep Learning & Computer vision Projects I have worked on
 
 ![Vehicle Detector](https://github.com/Pavankunchala/Vehicle-Detection-System/blob/main/vehicle.gif)
 
+* [Semantic Segmentation](https://github.com/Pavankunchala/Semantic-Segmentation-DL)
+
+![Segemented](https://github.com/Pavankunchala/Semantic-Segmentation-DL/blob/main/image_new1.jpg)
+
 
