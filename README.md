@@ -9,6 +9,8 @@ Showcasing all the Deep Learning & Computer vision Projects I have worked on
 
 ![Cartoonize images](https://github.com/Pavankunchala/Deep-Learning/blob/master/Cartoonize/CartoonPika.png)
 
+* [Face Tracking](https://github.com/Pavankunchala/Deep-Learning/tree/master/Face-Tracking)
+
 * [Face Recognition Live](https://github.com/Pavankunchala/Deep-Learning/tree/master/Face-Recognisation)
 
 ![Face-Recog](https://github.com/Pavankunchala/Project_Showcase/blob/main/Face-Recog-Demo.gif)
