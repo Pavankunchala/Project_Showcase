@@ -57,4 +57,8 @@ Showcasing all the Deep Learning & Computer vision Projects I have worked on
 
 ![QR](https://github.com/Pavankunchala/Deep-Learning/blob/master/QR_Code_Detection/qr_solution.png)
 
+* [Pedestrian Detection](https://github.com/Pavankunchala/Pedestrian-Detection-OpenCV)
+
+![PED](https://github.com/Pavankunchala/Pedestrian-Detection-OpenCV/blob/main/ped.gif)
+
 
