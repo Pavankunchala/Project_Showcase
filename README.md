@@ -53,4 +53,8 @@ Showcasing all the Deep Learning & Computer vision Projects I have worked on
 
 ![Detected](https://github.com/Pavankunchala/YOLO_V3_Tensorflow_2.0/blob/main/output.jpg)
 
+* [QR Code Decoder](https://github.com/Pavankunchala/Deep-Learning/tree/master/QR_Code_Detection)
+
+![QR](https://github.com/Pavankunchala/Deep-Learning/blob/master/QR_Code_Detection/qr_solution.png)
+
 
