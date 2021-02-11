@@ -33,6 +33,12 @@ Showcasing all the Deep Learning & Computer vision Projects I have worked on
 
 ![Tensorflow-img](https://github.com/Pavankunchala/Deep-Learning/blob/master/Tensorflow_Basics/rnn-mnist.png)
 
+* [DCGANS](https://github.com/Pavankunchala/Deep-Learning/tree/master/Tensorflow_Basics/GANS/DCGANS)
+
+![dcgan](https://github.com/Pavankunchala/Deep-Learning/blob/master/Tensorflow_Basics/GANS/DCGANS/GAN_gif.gif)
+
+
+
 * [Facial Landmarks detection](https://github.com/Pavankunchala/Deep-Learning/tree/master/Facial_landmarks)
 
 ![Face-landmark](https://github.com/Pavankunchala/Deep-Learning/blob/master/Facial_landmarks/face-landmark.gif)
