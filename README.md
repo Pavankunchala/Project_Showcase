@@ -1,6 +1,8 @@
 # Project Showcase
 Showcasing all the Deep Learning & Computer vision Projects I have worked on 
 
+* [Image-Resizing-Streamlit-Application](https://share.streamlit.io/pavankunchala/image-resizing-streamlit/main/imageResize.py)
+
 * [Human Pose Estimation](https://github.com/Pavankunchala/Human-Pose-Estimation-OpenCV)
 
 ![Human pose estimation](https://github.com/Pavankunchala/Project_Showcase/blob/main/pose-gif.gif)
