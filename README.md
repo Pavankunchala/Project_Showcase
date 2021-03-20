@@ -72,4 +72,9 @@ Showcasing all the Deep Learning & Computer vision Projects I have worked on
 
 ![clong-img](https://github.com/Pavankunchala/Project_Showcase/blob/main/out.png)
 
+* [Sparse-Optical-Flow](https://github.com/Pavankunchala/Deep-Learning/tree/master/Open-CV_Basics/Sparse-optical-flow)
+
+![sparse](https://github.com/Pavankunchala/Deep-Learning/blob/master/Open-CV_Basics/Sparse-optical-flow/sparse-optical-flow.gif)
+
+
 
